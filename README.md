@@ -1,5 +1,4 @@
-version control quiz
-####################
+# version_control_quiz
 A text based quiz on the fundamentals of Version Control with the emphasis on Git and GitHub.
 
 Make sure to *read this README correctly* before attempting the questions.
